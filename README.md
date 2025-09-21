@@ -1,5 +1,7 @@
 # AdPlatform
 
+*Инструкция*
+
 **Запустите проект:**<br/>
     - Через Visual Studio: Откройте `AdPlatformSolution.sln`, выберите проект `AdPlatform.API` и запустите (F5).<br/>
     - Откроется вкладка браузера со Swagger (например: https://localhost:7097/swagger/index.html, номер порта может отличаться).<br/>
