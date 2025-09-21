@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdPlatform.API", "AdPlatform.API\AdPlatform.API.csproj", "{B66E1AD7-F764-4F20-B2B9-BB2B89D5CEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdPlatform.Tests", "AdPlatform.Tests\AdPlatform.Tests.csproj", "{382F7235-27A0-4397-A471-3955B6AF2EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66E1AD7-F764-4F20-B2B9-BB2B89D5CEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66E1AD7-F764-4F20-B2B9-BB2B89D5CEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66E1AD7-F764-4F20-B2B9-BB2B89D5CEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66E1AD7-F764-4F20-B2B9-BB2B89D5CEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382F7235-27A0-4397-A471-3955B6AF2EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382F7235-27A0-4397-A471-3955B6AF2EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382F7235-27A0-4397-A471-3955B6AF2EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382F7235-27A0-4397-A471-3955B6AF2EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2099E03E-8640-4093-8C66-01529CFF7E17}
+	EndGlobalSection
+EndGlobal
